@@ -7,7 +7,7 @@ from decimal import Decimal
 
 headers = {'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36'}
 cookies = {'region' : 'TURKIYE',
-    'BXID' : 'AAAAAAWL6Bp52Y73b5/vrbH/RcZU3NglLYybpUv1XzB+Qx7xFg=='} # my personal biletix id that I extracted from cookies. TODO: spoof it.
+    'BXID' : 'AAAAAAWL6Bp52Y73b5/vrbH/RcZU3NglLYybpUv1XzB+Qx7xFg=='}
 
 MAPS_API_KEY = ""
 
