@@ -17,6 +17,6 @@ A NoSQL database that holds the events and geolocations of event venues.
 
 ## Code Walkthrough
 ### BiletixScrapeEvents.py ([here](https://github.com/atuncer/EventsPathCreatorBackend/blob/main/BiletixScrapeEvents.py))
-Scrapes the events from the ticket marketplace, cleans the data, creates a json, and saves to DynamoDB. Also for each event, it asyncly scrapes the availability status and event sessions.
+Scrapes the events from the ticket marketplace, cleans the data, creates a JSON file, and saves to DynamoDB. Also for each event, it asyncly scrapes the availability status and event sessions.
 ### PathFinder.py ([here](https://github.com/atuncer/EventsPathCreatorBackend/blob/main/PathFinder.py))
 ### ScrapeLocationsBiletix.py ([here](https://github.com/atuncer/EventsPathCreatorBackend/blob/main/ScrapeLocationsBiletix.py))
