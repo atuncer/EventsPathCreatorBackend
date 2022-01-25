@@ -2,6 +2,7 @@
 Computer Science degree Final Project with [Onurcan Yüksel](https://github.com/onurcyksl) and [Ege Çapar](https://github.com/megecapar).
 
 ### [Check the Frontend]()
+React Native Application
 
 ## Summary
 This project scrapes events from the Turkey's biggest event ticket marketplace and plans a daily schedule of events by Google Maps' APIs and tailor made path finding algorithms.
